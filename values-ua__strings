@@ -86,7 +86,7 @@
     <string name="grade_menu_summary">Підсумки</string>
     <string name="grade_menu_statistics">Клас</string>
     <string name="grade_menu_read">Відмітити як \"прочитане*</string>
-    <string name="grade_statistics_partial">Часткові</string>
+    <string name="grade_statistics_partial">Поточні</string>
     <string name="grade_statistics_semester">Семестрові</string>
     <string name="grade_statistics_points">Бали</string>
     <plurals name="grade_number_item">
